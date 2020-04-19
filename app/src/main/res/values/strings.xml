@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioPlayer</string>
+    <string name="seekBar"><Position></Position></string>
+    <string name="seekBarForVol">Volume</string>
+</resources>
